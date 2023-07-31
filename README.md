@@ -13,10 +13,15 @@ This is a C++ implementation of Life with modified rules to account for a very s
 
 We have the following variables: 
 O: lifespan
+
 D: decay
+
 M: minimal capacity
+
 K: carrying capacity
+
 R: reproductive rate
+
 T: reproductive lifespan threshold
 
 Each live cell has a random lifespan of 1 to O. The modified rules are as follows: 
