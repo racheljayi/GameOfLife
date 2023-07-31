@@ -29,7 +29,7 @@ T: reproductive lifespan threshold
 
 Each live cell has a random lifespan of 1 to O. 
 
-##The modified rules are as follows: 
+## The modified rules are as follows: 
 
 1. Every cycle each live cell’s lifespan goes down by D. Cells with a score of 1 dies, as if by age.  
 2. Any live cell with fewer than M live neighbours dies, as if by underpopulation
