@@ -11,7 +11,8 @@ John Conway’s Game of Life is a zero-player game where an initial configuratio
 
 This is a C++ implementation of Life with modified rules to account for a very simplified idea of population lifespans.
 
-We have the following variables: 
+## We have the following variables: 
+
 O: lifespan
 
 D: decay
